@@ -30,8 +30,6 @@ body{
 	padding: 1vw;
 }
 
-.intro-para {
-	width: 50vw;
-	border: 1px solid #000;
-	padding: 1vw;
+#visa {
+	width: 100px;
 }
