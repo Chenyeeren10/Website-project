@@ -1,0 +1,31 @@
+h2 {
+	color: blue;
+}
+
+.facts {
+	color: red;
+}
+
+.hobbies {
+	color: green;
+}
+
+#crane {
+	width: 20vw;
+}
+
+#origami-nasa{
+	width: 20vw;
+}
+
+.crane-para {
+	width: 50vw;
+	border: 1px solid #000;
+	padding: 1vw;
+}
+
+.spacecraft-para {
+	width: 50vw;
+	border: 1px solid #000;
+	padding: 1vw;
+}
