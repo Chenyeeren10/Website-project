@@ -20,7 +20,7 @@ title{
 }
 
 body{
-	background-color: #E2DE89;
+	background-color: #E0DDA1;
 }
 
 .facts {
@@ -30,6 +30,8 @@ body{
 	padding: 1vw;
 }
 
-#visa {
-	width: 300px;
+.intro-para {
+	width: 50vw;
+	border: 1px solid #000;
+	padding: 1vw;
 }
