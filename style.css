@@ -1,3 +1,12 @@
+h1{
+
+}
+
+h2{
+
+}
+
+
 h3 {
 	color: blue;
 	width: 30vw;
@@ -5,10 +14,10 @@ h3 {
 	padding: 1vw;
 }
 
-#visa.png {
-	width: 100px
+title{
+	color: white;
+	background-color: #54A4B1;
 }
-
 
 .facts {
 	color: red;
