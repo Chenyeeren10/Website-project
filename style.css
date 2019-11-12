@@ -1,17 +1,14 @@
 h1{
-
+	font-size: 40px;
 }
 
 h2{
-	font-size: 34px;
+	font-size: 30px;
 }
 
 
 h3 {
-	font-size: 40px;
-	width: 30vw;
-	border: 2px;
-	padding: 1vw;
+	font-size: 20px;
 }
 
 .topnav {
