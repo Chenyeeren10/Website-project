@@ -3,12 +3,12 @@ h1{
 }
 
 h2{
-
+	font-size: 16px;
 }
 
 
 h3 {
-	color: dark grey;
+	font-size: 20px;
 	width: 30vw;
 	border: 2px;
 	padding: 1vw;
